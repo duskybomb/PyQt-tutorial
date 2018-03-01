@@ -7,7 +7,9 @@ ZetCode PyQt5 tutorial
 This example shows an icon
 in the titlebar of the window.
 
-Author: Harhsit Joshi
+Original Author: Jan Bodnar
+
+Author: Harshit Joshi
 Website: harshitjoshi.in
 """
 

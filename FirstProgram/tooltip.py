@@ -7,6 +7,8 @@ ZetCode PyQt5 tutorial
 This example shows a tooltip on
 a window and a button.
 
+Original Author: Jan Bodnar
+
 Author: Harshit Joshi
 Website: harshitjoshi.in
 """
@@ -32,8 +34,8 @@ class Example(QWidget):
 
         # create tooltip
         btn = QPushButton('Button', self)
-        btn.setToolTip('This is a <b> QPushButton</b> widget')
-        btn.resize(btn.sizeHint())
+        btn.setToolTip('This is a <b> QPushButton</b> widget')  # Tooltip text
+        btn.resize(btn.sizeHint())  # sizeHint() gives recommended size for button
         btn.move(50,50)
 
         self.setGeometry(300, 300, 300, 250)

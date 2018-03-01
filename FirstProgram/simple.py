@@ -7,7 +7,9 @@ ZetCode PyQt5 tutorial
 In this example, we create a simple
 window in PyQt5.
 
-Author: Harhsit Joshi
+Original Author: Jan Bodnar
+
+Author: Harshit Joshi
 Website: harshitjoshi.in
 """
 
