@@ -1,8 +1,8 @@
 # PyQt-tutorial (ZetCode)
 
-This is implementation of tutorial on[ZetCode](http://zetcode.com) 
+This is implementation of tutorial on [ZetCode](http://zetcode.com) 
 
-Here is the link to the tutorial[Py-Qt Tutorial](http://zetcode.com/gui/pyqt5/)
+Here is the link to the tutorial [Py-Qt Tutorial](http://zetcode.com/gui/pyqt5/)
 
 ### Content
 
